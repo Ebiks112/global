@@ -1,0 +1,8 @@
+total 16
+drwxr-x---+ 42 ebiboebikeme  staff  1344 24 Sep 10:38 ..
+-rw-r--r--   1 ebiboebikeme  staff   374 24 Sep 10:51 file2.txt
+-rw-r--r--   1 ebiboebikeme  staff   310 24 Sep 10:51 file1.txt
+drwx------+  7 ebiboebikeme  staff   224 24 Sep 10:51 .
+drwxr-xr-x@  3 ebiboebikeme  staff    96 25 Jun 19:58 .mono
+-rw-r--r--   1 ebiboebikeme  staff     0 18 Aug  2023 .localized
+-rw-r--r--   1 ebiboebikeme  staff     0 24 Sep 10:51 file3.txt
